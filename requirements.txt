@@ -1,0 +1,5 @@
+# pakages need to install for this project
+pandas
+numpy
+seaborn
+-e .
