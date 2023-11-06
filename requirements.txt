@@ -1,5 +1,11 @@
-# pakages need to install for this project
+# # pakages need to install for this project
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+# -e .
